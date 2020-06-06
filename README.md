@@ -1,1 +1,1 @@
-# MyHackintoshTools
+# MyHackintosh
